@@ -11,5 +11,17 @@ body {
 }
 
 p {
-  background-color: aqua;
+  background-color: rgb(179, 83, 0);
+}
+
+a {
+  background-color: rgb(157, 255, 0);
+}
+
+div {
+  background-color: bisque;
+}
+
+span {
+  background-color: rgb(216, 121, 4);
 }
